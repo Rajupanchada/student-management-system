@@ -13,9 +13,7 @@ A modern, full-stack web application built with Spring Boot and Thymeleaf for ma
 
 
 ## Table of Contents
-- [Student Management System](#student-management-system)
-  - [Project Description](#project-description)
-  - [Table of Contents](#table-of-contents)
+
   - [Features](#features)
   - [Technologies Used](#technologies-used)
     - [Backend](#backend)
@@ -269,7 +267,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Your Name - Rajupanchada
 Your Email - rajupanchada868@gmail.com
 
-Project Link: 
+Project Link:
 
 ## Acknowledgments
 
